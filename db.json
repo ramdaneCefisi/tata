@@ -1,7 +1,7 @@
 {
   "client": [
-    { "id": 1, "firstname": "John", "age": 30, "mail": "john@mail.com },
-    { "id": 2, "firstname": "Jimmy",  "age": 35, "mail": "jimmy@mail.com},
-    { "id": 3, "firstname": "Jenny", "age": 27, "mail": "jenny@mail.com }
+    { "id": 1, "firstname": "John", "age": 30, "mail": "john@mail.com" },
+    { "id": 2, "firstname": "Jimmy",  "age": 35, "mail": "jimmy@mail.com" },
+    { "id": 3, "firstname": "Jenny", "age": 27, "mail": "jenny@mail.com" }
   ]
 }
